@@ -3,7 +3,7 @@ scraping python code
 Regularly updated
 
 *** Insurers 
-scrap local insurers directories to obtain list to emailing or phoning
+scrap of local insurers directories to obtain lists to emailing or phoning in a second time
 tools: numpy/pandas/selenium >> webdriver >> webdriverwaits >> Action Chains
 
 
